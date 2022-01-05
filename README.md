@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm extazi</h1>
-<h3 align="center">I'm 16 years old and I'm studying Computer Science. I also like to help people to achieve their goals.</h3>
+<h3 align="center">I'm 16 years old and I'm studying Computer Science. I also like to help people achieve their goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sextazi1337&label=Profile%20views&color=0e75b6&style=flat" alt="sextazi1337" /> </p>
 
