@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sextazi1337&label=Profile%20views&color=0e75b6&style=flat" alt="sextazi1337" /> </p>
 
-- 🌱 I’m currently learning **nothing now**
+- 🌱 I’m currently learning: **svelte**
 
 - 💬 Ask me about **VueJs, PHP**
 
