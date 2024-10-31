@@ -1,5 +1,5 @@
 # Nedelcu Andy
-**Hello World! 👋, My name is Andy known as extazi, I'm 16 years old and I'm studying Computer Science. I also like to help people achieve their goals.**
+**Hello World! 👋, My name is Andy known as extazi, I'm 18 years old and I'm studying Computer Science. I also like to help people achieve their goals.**
 
 <img src="https://komarev.com/ghpvc/?username=sextazi1337&label=Profile%20views&color=0e75b6&style=flat" alt="sextazi1337" />
 
